@@ -1,6 +1,6 @@
 .catalog:
- name: "Initial Version"
- version: "v0.0.1"
+ name: "Initial Version with proxy buffering enabled"
+ version: "v0.0.1.1"
  questions:    
     - variable: PATH
       label: "Path to save config on host"
